@@ -1,8 +1,8 @@
-# FutScrap versión 0.1.0
+# Web Scraping con cheerio
 
-API Rest para mediante Web Scraping obtener historial de enfrentamientos entre equipos de Argentina. Realizada en NodeJS con Cheerio.
+API Rest para mediante Web Scraping obtener historial de enfrentamientos entre equipos de Argentina. Realizada en NodeJS con Cheerio y deployada en vercel: https://vercel.com/gabiarrieta/futscrap-api-master
 
-## Instrucciones y explicaciones
-
-Pueden encontrar una completa explicación de la aplicación en mi [página de Medium](https://medium.com/@gonzacoding/web-scraping-futbolero-con-react-node-express-cheerio-y-deploy-en-vercel-parte-1-c31865716e80)
+Rutas:
+https://vercel.com/gabiarrieta/futscrap-api-master/api para ver todos los equipos
+https://vercel.com/gabiarrieta/futscrap-api-master/api/#id ingresar un numero como parámetro luego de /api/ para ver el historial de un equipo en particular
 
